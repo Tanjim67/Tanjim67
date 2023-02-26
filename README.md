@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanjim67
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning Quasar for UI development
-- 📫 How to reach me ...
+- 🌱 I’m currently working with SvelteKit for  front end development
+- 📫 You can email me @ thaquedev@gmail.com
 
 <!---
 Tanjim67/Tanjim67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
