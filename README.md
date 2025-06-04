@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanjim67
-- 👀 I’m interested in front end development
-- 🌱 I’m currently working with SvelteKit for  front end development
+- 👀 I’m fullstack developer mainly focusing on JS and Java environment
+- 🌱 I’m currently working with Java Springboot
 - 📫 You can email me @ thaquedev@gmail.com
 
 <!---
